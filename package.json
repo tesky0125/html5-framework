@@ -1,0 +1,23 @@
+{
+  "name": "html5-framework",
+  "version": "0.0.1",
+  "description": "h5-framework for h5 layer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesky0125/html5-framework.git"
+  },
+  "keywords": [
+    "h5",
+    "framework"
+  ],
+  "author": "RylanYan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tesky0125/html5-framework/issues"
+  },
+  "homepage": "https://github.com/tesky0125/html5-framework#readme"
+}
